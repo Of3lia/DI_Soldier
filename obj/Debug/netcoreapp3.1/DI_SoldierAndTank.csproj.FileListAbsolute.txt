@@ -1,0 +1,13 @@
+E:\Visual_Studio_Projects\DI_SoldierAndTank\bin\Debug\netcoreapp3.1\DI_SoldierAndTank.exe
+E:\Visual_Studio_Projects\DI_SoldierAndTank\bin\Debug\netcoreapp3.1\DI_SoldierAndTank.deps.json
+E:\Visual_Studio_Projects\DI_SoldierAndTank\bin\Debug\netcoreapp3.1\DI_SoldierAndTank.runtimeconfig.json
+E:\Visual_Studio_Projects\DI_SoldierAndTank\bin\Debug\netcoreapp3.1\DI_SoldierAndTank.runtimeconfig.dev.json
+E:\Visual_Studio_Projects\DI_SoldierAndTank\bin\Debug\netcoreapp3.1\DI_SoldierAndTank.dll
+E:\Visual_Studio_Projects\DI_SoldierAndTank\bin\Debug\netcoreapp3.1\DI_SoldierAndTank.pdb
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.csprojAssemblyReference.cache
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.AssemblyInfoInputs.cache
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.AssemblyInfo.cs
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.dll
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.pdb
+E:\Visual_Studio_Projects\DI_SoldierAndTank\obj\Debug\netcoreapp3.1\DI_SoldierAndTank.genruntimeconfig.cache
